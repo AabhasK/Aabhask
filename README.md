@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aabhas</h1>
-<h3 align="center">CS Pre-Final year · Learning & building till AI doesn't replace me 😅</h3>
+<h3 align="center">CS Pre-Final year · Learning & building </h3>
 
 - Looking to collaborate on **projects**
 - **I am an F-1 enthusiast and I also play the Piano and Guitar**
